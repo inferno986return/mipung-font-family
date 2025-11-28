@@ -47,7 +47,7 @@ The mascot for Tizen is a pinwheel, so a breeze would compliment the pinwheel an
 
 See the Samsung developer documentation: https://developer.samsung.com/one-ui-watch-tizen/visual/typography.html
 
-There is also a `BreezeColorEmoji.ttf` font but I haven't been able to investigate if it's a unique Emoji set or just the Samsung set. Would be cool to have unique Mipung Emoji to go compliment Mipung Sans.
+There is also a `BreezeColorEmoji.ttf` font and from running the Fonttools `ttx -z extfile BreezeColorEmoji.ttf` command I was able to extract a unique Emoji set I've never seen before. It would be cool to have unique Mipung Emoji to compliment Mipung Sans.
 
 ## What languages are supported?
 I have performed language support testing with Hyperglot: https://hyperglot.rosettatype.com/support
