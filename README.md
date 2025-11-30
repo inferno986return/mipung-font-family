@@ -56,9 +56,9 @@ Breeze Sans supports an astonishing 551 languages (with an estimated 3.4 billion
 
 428/503 Latin alphabet languages are marked as supported on Hyperglot (including archaic and constructed languages)
 
-* **Latin** - French, Spanish, German, Vietnamese and Esperanto  
-* **Greek** - Modern Greek and Pontic Greek, but not Ancient Greek i.e. polytonic Greek which I confirmed using Notepad and a copy of the Hippocratic Oath from Wikisource: https://el.wikisource.org/wiki/%CE%99%CF%80%CF%80%CE%BF%CE%BA%CF%81%CE%AC%CF%84%CE%B5%CE%B9%CE%BF%CF%82_%CF%8C%CF%81%CE%BA%CE%BF%CF%82 
-* **Cyrillic** - everything except Northern Kurdish, Orok, Yagnobi and archaic Church Slavic
+* **Latin** – French, Spanish, German, Vietnamese and Esperanto  
+* **Greek** – Modern Greek and Pontic Greek, but not Ancient Greek i.e. polytonic Greek which I confirmed using Notepad and a copy of the Hippocratic Oath from Wikisource: https://el.wikisource.org/wiki/%CE%99%CF%80%CF%80%CE%BF%CE%BA%CF%81%CE%AC%CF%84%CE%B5%CE%B9%CE%BF%CF%82_%CF%8C%CF%81%CE%BA%CE%BF%CF%82 
+* **Cyrillic** – everything except Northern Kurdish, Orok, Yagnobi and archaic Church Slavic
 
 Other writing systems are unsupported including CJK, Arabic, Devanagari, etc. 
 
@@ -68,13 +68,14 @@ Esperanto is completely supported and there's even a Smesmilo symbol!
 
 We could add:
 
-* **OpenType features** - including support for text figures, stylistic sets such as a single-story 'a', a double-storey 'g', a serifed 'I', a tailed 'l', a horizontal baselined '1' and an open '4'
-* **New currency symbols** - Bitcoin (₿), UAE dirham (D with 2 strokes), Saudi rial (⃁), Azerbaijani manat (₼) etc.
-* **More symbols** - Audio copyright (℗), triple prime mark (‴), quadruple prime mark (⁗)	
-* **Italic** - either true *italic* or oblique would make the fonts more useful
-* **Variable font** - unlimited weights!
-* **Regional Cyrillic letterforms** - including Bulgarian and Serbian
-* **Polytonic Greek** - niche, but it has historic and liturgical usage
-* **Monospaced variant** - Mipung Sans Mono has a nice ring to it
+* **OpenType features** – including support for text figures, stylistic sets such as a single-story 'a', a double-storey 'g', a serifed 'I', a tailed 'l', a 'Q' where the tail intersects the counter, a '1' with a horizontal baseline and an open '4'.
+* **New currency symbols** – Bitcoin (₿), UAE dirham (D with 2 strokes), Saudi rial (⃁), Azerbaijani manat (₼) etc.
+* **More symbols** – Audio copyright (℗), triple prime mark (‴), quadruple prime mark (⁗)	
+* **Italic** – either true *italic* or oblique would make the fonts more useful
+* **Variable font** – unlimited weights!
+* **Regional Cyrillic letterforms** – including Bulgarian and Serbian
+* **Polytonic Greek** – niche, but it has historic and liturgical usage and it's a matter of combining accents and breathing marks using OpenType `ccmp` (Glyph Composition/Decomposition).
+* **Monospaced variant** – Mipung Sans Mono has a nice ring to it
+* **Serif variant** –
 
 We could also create Mipung Sans Fallback for the fallback fonts, but that's currently out of scope.
