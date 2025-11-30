@@ -66,7 +66,7 @@ Esperanto is completely supported and there's even a Smesmilo symbol!
 
 ## Any other ideas?
 
-We could add:
+To its credit the original Breeze Sans has a truly impressive glyphset, so my wishlist feels more nitpicky that usual. Still we could add these:
 
 * **OpenType features** – including support for text figures, stylistic sets such as a single-story 'a', a double-storey 'g', a serifed 'I', a tailed 'l', a 'Q' where the tail intersects the counter, a '1' with a horizontal baseline and an open '4'.
 * **New currency symbols** – Bitcoin (₿), UAE dirham (D with 2 strokes), Saudi rial (⃁), Azerbaijani manat (₼) etc.
