@@ -75,7 +75,7 @@ We could add:
 * **Variable font** – unlimited weights!
 * **Regional Cyrillic letterforms** – including Bulgarian and Serbian
 * **Polytonic Greek** – niche, but it has historic and liturgical usage and it's a matter of combining accents and breathing marks using OpenType `ccmp` (Glyph Composition/Decomposition).
-* **Monospaced variant** – Mipung Sans Mono has a nice ring to it
-* **Serif variant** –
+* **Monospaced variant** – Mipung Sans Mono has a nice ring to it and I think that the letterforms would look brilliant in a text editor or terminal.
+* **Serif variant** – Mipung Serif could be a cool humanist serif typeface but this is a very bold ambition.
 
 We could also create Mipung Sans Fallback for the fallback fonts, but that's currently out of scope.
