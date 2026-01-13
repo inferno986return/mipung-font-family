@@ -49,7 +49,7 @@ See the Samsung developer documentation: https://developer.samsung.com/one-ui-wa
 
 There is also a `BreezeColorEmoji.ttf` font and from running the Fonttools `ttx -z extfile BreezeColorEmoji.ttf` command I was able to extract a unique Emoji set I've never seen before. It would be cool to have unique Mipung Emoji to compliment Mipung Sans.
 
-## What languages are supported?
+## What languages does Breeze Sans support?
 I have performed language support testing with Hyperglot: https://hyperglot.rosettatype.com/support
 
 Breeze Sans supports an astonishing 551 languages (with an estimated 3.4 billion speakers)!
@@ -63,6 +63,12 @@ Breeze Sans supports an astonishing 551 languages (with an estimated 3.4 billion
 Other writing systems are unsupported including CJK, Arabic, Devanagari, etc. 
 
 Esperanto is completely supported and there's even a Smesmilo symbol!
+
+## What is Brisa Sans?
+
+Brisa Sans is fork by Christiano Sobral (cssobral2013) which is a modification of the original Breeze Sans to include a black weight, true italics, tabularised figures and a variable font. The licence is the Apache License 2.0 so this could be used as a base.
+
+The font does not work as intended within Brave and I want the condensed to be a separate family.
 
 ## Any other ideas?
 
