@@ -36,6 +36,7 @@ To its credit the original Breeze Sans has a truly impressive glyphset, so my wi
     * stylistic sets, such as:
         * single-story 'a'
         * double-storey 'g'
+        * alternate-accented U+0125 (ĥ), including on the shoulder like in Libertinus Serif and centred.
         * serifed 'I'
         * tailed 'l'
         * 'Q' where the tail intersects the counter
