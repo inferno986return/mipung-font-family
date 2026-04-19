@@ -54,7 +54,8 @@ To its credit the original Breeze Sans has a truly impressive glyphset, so my wi
     * Copyleft symbol U+1F12F (🄯)
     * triple dagger U+2E4B (⹋)
     * triple prime mark U+2034 (‴)
-    * quadruple prime mark U+2057 (⁗)	
+    * quadruple prime mark U+2057 (⁗)
+    * Motley Press hipokampo logo - private use area (PUA)
 * **Regional Cyrillic letterforms** – including Bulgarian and Serbian
 * **Polytonic Greek** – niche, but it has historic and some comtemporary usage amongst the Estia newspaper and liturgy. The core monotonic glyphs are there so it's a matter of combining accents and breathing marks using OpenType `ccmp` (Glyph Composition/Decomposition) and the superscript Psi (ψ) and Omega (ω) for Unicode 18.
     * Estia (https://www.estianews.gr/) is the only news outlet in Greece that uses polytonic spelling.
